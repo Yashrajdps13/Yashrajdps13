@@ -1,6 +1,6 @@
 # Hi, I'm Utkarsh 👋
 
-I'm a student passionate about building across the stack — web, mobile, and AI.  
+I'm a student passionate about building across the stack: web, mobile, and AI.  
 Currently exploring how these worlds intersect to create useful, meaningful products.
 
 ---
